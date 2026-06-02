@@ -134,7 +134,7 @@ Use these fields to prune your candidate list and choose the next word.
 
 ## Suggested timeline
 
-| Day | In class / Homework target                                        |
+| Step | In class / Homework target                                        |
 | --- | ----------------------------------------------------------------- |
 | 1   | Build & run scaffold, confirm statistics print, skim starter code |
 | 2   | Implement candidate filtering so every guess is valid             |
